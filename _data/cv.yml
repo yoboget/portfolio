@@ -1,189 +1,229 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Yoann Boget
+  label: Machine Learning Researcher
+  email: yoann.boget@hes-so.ch
+  location: Geneva, Switzerland
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: My research focuses on generative models for graphs and discrete structures.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+      username: yoboget
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    city: Geneva
+    region: Geneva
+    countryCode: CH
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: University of Geneva
+        location: Geneva, Switzerland
+        url: https://www.unige.ch/
+        area: "Machine Learning (generative models for graphs and discrete structures)"
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        end_date: 2026
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Mention Très Bien (highest distinction) for the PhD thesis defense"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of Neuchâtel
+        location: Neuchâtel, Switzerland
+        url: https://www.unine.ch/
+        area: Statistics
+        studyType: Master
+        end_date: 2019
+
+      - institution: "EHESS (École des hautes études en sciences sociales)"
+        location: Paris, France
+        url: https://www.ehess.fr/
+        area: Sociology
+        studyType: Master
+        end_date: 2008
+
+      - institution: University of Geneva
+        location: Geneva, Switzerland
+        url: https://www.unige.ch/
+        area: Sociology
+        studyType: "Licence (four-year programme, equivalent to Bachelor + Master)"
+        end_date: 2007
         highlights:
-          - Description 1.
-          - Description 2.
+          - "One-year exchange program at the Freie Universität, Berlin"
+
+      - institution: Geneva Collège
+        location: Geneva, Switzerland
+        area: Physics and Applied Mathematics
+        studyType: "High School Diploma (Maturité gymnasiale)"
+        end_date: 2002
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: "Geneva School of Business Administration (HEG - HES-SO)"
+        position: Research Assistant
+        location: Geneva, Switzerland
+        start_date: 2020
+        end_date: 2026-08-30
+        summary: "Research assistant at the Data Mining and Machine Learning group (DMML). Research on generative models for graphs and discrete structures, as part of my PhD at the University of Geneva."
         highlights:
-          - Relativity
-          - Description 2.
+          - "PhD research on generative models for graphs and discrete structures"
+          - "Publications at ICML, AAAI, TMLR and ACML"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: University of Geneva
+        position: Teaching Assistant
+        location: Geneva, Switzerland
+        start_date: 2023
+        end_date: 2024
+        summary: "Teaching assistant for the Data Mining course."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: "SLAC National Accelerator Laboratory, Stanford University"
+        position: Intern
+        location: "CERN, Meyrin, Switzerland"
+        start_date: 2019-01-01
+        end_date: 2019-06-30
+        summary: "Internship under the supervision of Michael Kagan."
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: CERN Openlab
+        position: Summer Student
+        location: Geneva, Switzerland
+        start_date: 2019-07-01
+        end_date: 2019-08-31
+        summary: "CERN Openlab Summer Student Program."
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: "Green Party, Geneva"
+        position: Communication Manager
+        location: Geneva, Switzerland
+
+      - company: Meyrin
+        position: Consultant for Participatory Processes
+        location: Meyrin, Switzerland
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company: "Conference of the Student Associations, University of Geneva"
+        position: General Secretary
+        location: Geneva, Switzerland
+
+      - company: University of Geneva
+        position: Member of the University Council
+        location: Geneva, Switzerland
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Top 200 Reviewer
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "International Conference on Learning Representations (ICLR 2026)"
+        date: 2026
+        awarder: "International Conference on Learning Representations (ICLR 2026)"
 
-      - title: Max Planck Medal
+      - title: Gold Reviewer
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "International Conference on Machine Learning (ICML 2026)"
+        date: 2026
+        awarder: "International Conference on Machine Learning (ICML 2026)"
+
+      - title: Top Reviewer
+        authors:
+          - "Conference on Neural Information Processing Systems (NeurIPS 2025)"
+        date: 2025
+        awarder: "Conference on Neural Information Processing Systems (NeurIPS 2025)"
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Unrestrained Simplex Denoising for Discrete Data. A Non-Markovian Approach Applied to Graph Generation"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Yoann Boget
+          - Alexandros Kalousis
+        publisher: "arXiv preprint arXiv:2603.28572"
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2603.28572
+        summary: "Under review."
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "Hierarchical Discrete Flow Matching for Graph Generation"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Yoann Boget
+          - Pablo Strasser
+          - Alexandros Kalousis
+        publisher: "arXiv preprint arXiv:2604.00236"
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2604.00236
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Simple and Critical Iterative Denoising: A Recasting of Discrete Diffusion in Graph Generation"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Yoann Boget
+        publisher: "Proceedings of the 42nd International Conference on Machine Learning (ICML), PMLR 267"
+        releaseDate: 2025
+        url: https://openreview.net/forum?id=kPTW6hGrJy
+
+      - title: "Discrete Graph Auto-Encoder"
+        authors:
+          - Yoann Boget
+          - Magda Gregorova
+          - Alexandros Kalousis
+        publisher: "Transactions on Machine Learning Research (TMLR)"
+        releaseDate: 2024
+        url: https://arxiv.org/abs/2306.07735
+
+      - title: "Graph Annotation Generative Adversarial Networks"
+        authors:
+          - Yoann Boget
+          - Magda Gregorova
+          - Alexandros Kalousis
+        publisher: "Proceedings of The 14th Asian Conference on Machine Learning (ACML), PMLR 189"
+        releaseDate: 2023
+        url: https://proceedings.mlr.press/v189/boget23a.html
+
+      - title: "GLAD: Improving Latent Graph Generative Modeling with Simple Quantization"
+        authors:
+          - Van Khoa Nguyen
+          - Yoann Boget
+          - Frantzeska Lavda
+          - Alexandros Kalousis
+        publisher: "Proceedings of the 39th AAAI Conference on Artificial Intelligence"
+        releaseDate: 2025
+        url: https://doi.org/10.1609/aaai.v39i18.34169
+
+      - title: "Deep Learning for Satellite Imagery"
+        authors:
+          - Yoann Boget
+        publisher: "IXPUG Annual Conference 2019"
+        releaseDate: 2019
+        summary: "Conference talk."
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: "Languages & Frameworks"
+        icon: fa-solid fa-code
+        keywords: "Python, PyTorch, PyTorch Geometric, RDKit, R, Matlab"
+
+      - name: Methods
+        icon: fa-solid fa-brain
+        keywords: "Deep generative models, Diffusion models, Flow matching, GANs, VAEs, Graph neural networks, Guidance"
+
+      - name: Infrastructure
+        icon: fa-solid fa-server
+        keywords: "SLURM / HPC clusters, Git, Docker, Weights & Biases"
+
+      - name: Other
+        icon: fa-solid fa-file-lines
+        keywords: "LaTeX"
 
     Languages:
-      - name: German
+      - name: French
         summary: "Native speaker"
 
       - name: English
-        summary: "Fluent"
+        summary: "Advanced (C1)"
+
+      - name: German
+        summary: "Upper intermediate (B2)"
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: "Swing Dance & Jazz"
+        icon: fa-solid fa-music
+        keywords: "Swing dance teacher, Jazz history"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Running
+        icon: fa-solid fa-person-running
+        keywords: "Running, Trail running"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: "Energy & Environment"
+        icon: fa-solid fa-leaf
+        keywords: "Energy issues, Environmental issues"
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: "Adversarial Regression. Generative Adversarial Networks for Non-Linear Regression: Theory and Assessment"
+        summary: "Master thesis, graded 5.5/6."
