@@ -7,7 +7,7 @@ subtitle: <a href='https://dmml.ch/yoann-boget/'>DMML group - HES-SO</a>. Battel
 profile:
   align: right
   image: yb.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Office F111 - Battelle</p>
 
@@ -25,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Here, I am going to put a short description of myself. You can use Markdown here, and even include HTML if you want.
+Social Scientist. PhD in Generative Modeling for Discrete Data. Questioning intelligences. Searching for consciousness. Valuing simplicity.
 
-Other things would come here 
+Few things I like: Jazz as dance music. Chili-piment linguine. Octopuses. Running around. Lauryn Hill.
 
-And some link there.
+Non-French French native speaker. Born in Meyrin. High school at Collège Rousseau. Lived in Geneva, Berlin, Paris, Jena, Avignon, Barcelona.
