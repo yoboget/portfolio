@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I just started a new position as a postdoc at the same <a href='https://www.dmml.ch/'>DMML group</a>.

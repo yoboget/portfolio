@@ -18,7 +18,7 @@ cv:
   sections:
     Education:
       - institution: University of Geneva
-        location: Geneva, Switzerland
+        # location: Geneva, Switzerland
         url: https://www.unige.ch/
         area: "Machine Learning (generative models for graphs and discrete structures)"
         studyType: PhD
@@ -27,21 +27,21 @@ cv:
           - "Mention Très Bien (highest distinction) for the PhD thesis defense"
 
       - institution: University of Neuchâtel
-        location: Neuchâtel, Switzerland
+        # location: Neuchâtel, Switzerland
         url: https://www.unine.ch/
         area: Statistics
         studyType: Master
         end_date: 2019
 
       - institution: "EHESS (École des hautes études en sciences sociales)"
-        location: Paris, France
+        # location: Paris, France
         url: https://www.ehess.fr/
         area: Sociology
         studyType: Master
         end_date: 2008
 
       - institution: University of Geneva
-        location: Geneva, Switzerland
+        # location: Geneva, Switzerland
         url: https://www.unige.ch/
         area: Sociology
         studyType: "Licence (four-year programme, equivalent to Bachelor + Master)"
@@ -50,7 +50,7 @@ cv:
           - "One-year exchange program at the Freie Universität, Berlin"
 
       - institution: Geneva Collège
-        location: Geneva, Switzerland
+        # location: Geneva, Switzerland
         area: Physics and Applied Mathematics
         studyType: "High School Diploma (Maturité gymnasiale)"
         end_date: 2002
@@ -58,7 +58,7 @@ cv:
     Experience:
       - company: "Geneva School of Business Administration (HEG - HES-SO)"
         position: Research Assistant
-        location: Geneva, Switzerland
+        # location: Geneva, Switzerland
         start_date: 2020
         end_date: 2026-08-30
         summary: "Research assistant at the Data Mining and Machine Learning group (DMML). Research on generative models for graphs and discrete structures, as part of my PhD at the University of Geneva."
@@ -68,32 +68,32 @@ cv:
 
       - company: University of Geneva
         position: Teaching Assistant
-        location: Geneva, Switzerland
+        # location: Geneva, Switzerland
         start_date: 2023
         end_date: 2024
         summary: "Teaching assistant for the Data Mining course."
 
       - company: "SLAC National Accelerator Laboratory, Stanford University"
         position: Intern
-        location: "CERN, Meyrin, Switzerland"
+        # location: "CERN, Meyrin, Switzerland"
         start_date: 2019-01-01
         end_date: 2019-06-30
         summary: "Internship under the supervision of Michael Kagan."
 
       - company: CERN Openlab
         position: Summer Student
-        location: Geneva, Switzerland
+        # location: Geneva, Switzerland
         start_date: 2019-07-01
         end_date: 2019-08-31
         summary: "CERN Openlab Summer Student Program."
 
       - company: "Green Party, Geneva"
         position: Communication Manager
-        location: Geneva, Switzerland
+        # location: Geneva, Switzerland
 
       - company: Meyrin
         position: Consultant for Participatory Processes
-        location: Meyrin, Switzerland
+        # location: Meyrin, Switzerland
 
     Volunteer:
       - company: "Conference of the Student Associations, University of Geneva"
@@ -102,7 +102,7 @@ cv:
 
       - company: University of Geneva
         position: Member of the University Council
-        location: Geneva, Switzerland
+        # location: Geneva, Switzerland
 
     Awards:
       - title: Top 200 Reviewer

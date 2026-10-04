@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2026-04-10 15:59:00-0400
+date: 2026-09-25 17:30:00
 inline: true
 related_posts: false
 ---
 
-Welcome to this new project! 
+Got my PhD with the highest honors in Computer Science at the University of Geneva.
+Thanks to my advisors, Pr. Alexandros Kalousis and Pr. Stéphane Marchand-Maillet. 
