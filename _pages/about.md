@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>DMML group - HES-SO</a>. Battelle. Less is more.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yb.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
