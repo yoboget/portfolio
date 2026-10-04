@@ -1,221 +1,312 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yoann Boget",
+    "label": "Machine Learning Researcher",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "yoann.boget@hesge.ch",
+    "url": "https://dmml.ch/yoann-boget/",
+    "summary":  research focuses on generative models for graphs and discrete structures.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Geneva",
+      "countryCode": "CH",
+      "region": "Geneva"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "yoboget",
+        "url": "https://github.com/yoboget"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Geneva School of Business Administration (HEG - HES-SO)",
+      "position": "Research Assistant",
+      "location": "Geneva, Switzerland",
+      "startDate": "2020-01-01",
+      "endDate": "2026-08-30",
+      "summary": "Research assistant at the Data Mining and Machine Learning group (DMML). Research on generative models for graphs and discrete structures, as part of my PhD at the University of Geneva.",
+      "highlights": [
+        "PhD research on generative models for graphs and discrete structures",
+        "Publications at ICML, AAAI, TMLR and ACML"
+      ]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "name": "University of Geneva",
+      "position": "Teaching Assistant",
+      "location": "Geneva, Switzerland",
+      "startDate": "2023-01-01",
+      "endDate": "2024-01-01",
+      "summary": "Teaching assistant for the Data Mining course.",
+      "highlights": []
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
+      "name": "SLAC National Accelerator Laboratory, Stanford University",
+      "position": "Intern",
+      "location": "Cern, Meyrin, CH",
+      "startDate": "2019-01-01",
+      "endDate": "2019-06-30",
+      "summary": "Internship under the supervision of Michael Kagan.",
+      "highlights": []
+    },
+    {
+      "name": "CERN Openlab",
+      "position": "Summer Student",
+      "location": "Geneva, Switzerland",
+      "startDate": "2019-07-01",
+      "endDate": "2019-08-31",
+      "summary": "CERN Openlab Summer Student Program.",
+      "highlights": []
+    },
+    {
+      "name": "Green Party, Geneva",
+      "position": "Communication Manager",
+      "location": "Geneva, Switzerland",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": []
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
+      "name": "Meyrin",
+      "position": "Consultant for Participatory Processes",
+      "location": "Meyrin, Switzerland",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": []
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Conference of the Student Associations, University of Geneva",
+      "location": "Geneva, Switzerland",
+      "position": "General Secretary",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "University of Geneva",
+      "location": "Geneva, Switzerland",
+      "position": "Member of the University Council",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
+      "institution": "University of Geneva",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.unige.ch/",
+      "area": "Machine Learning (generative models for graphs and discrete structures)",
       "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
+      "startDate": "",
+      "endDate": "2026-09-01",
       "score": "",
       "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": ["Mention Très Bien (highest distinction) for the PhD thesis defense"]
+    },
+    {
+      "institution": "University of Neuchâtel",
+      "location": "Neuchâtel, Switzerland",
+      "url": "https://www.unine.ch/",
+      "area": "Statistics",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2019-01-01",
+      "score": "",
+      "courses": [],
+      "highlights": []
+    },
+    {
+      "institution": "EHESS (École des hautes études en sciences sociales)",
+      "location": "Paris, France",
+      "url": "https://www.ehess.fr/",
+      "area": "Sociology",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2008-01-01",
+      "score": "",
+      "courses": [],
+      "highlights": []
+    },
+    {
+      "institution": "University of Geneva",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.unige.ch/",
+      "area": "Sociology",
+      "studyType": "Licence (four-year programme, equivalent to Bachelor + Master)",
+      "startDate": "",
+      "endDate": "2007-01-01",
+      "score": "",
+      "courses": [],
+      "highlights": ["One-year exchange program at the Freie Universität, Berlin"]
+    },
+    {
+      "institution": "Geneva Collège",
+      "location": "Geneva, Switzerland",
+      "area": "Physics and Applied Mathematics",
+      "studyType": "High School Diploma (Maturité gymnasiale)",
+      "startDate": "",
+      "endDate": "2002-01-01",
+      "score": "",
+      "courses": [],
+      "highlights": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Top 200 Reviewer",
+      "date": "2026-01-01",
+      "awarder": "International Conference on Learning Representations (ICLR 2026)",
+      "summary": ""
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
+      "title": "Gold Reviewer",
+      "date": "2026-01-01",
+      "awarder": "International Conference on Machine Learning (ICML 2026)",
+      "summary": ""
+    },
+    {
+      "title": "Top Reviewer",
+      "date": "2025-01-01",
+      "awarder": "Conference on Neural Information Processing Systems (NeurIPS 2025)",
       "summary": ""
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
-    }
-  ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Unrestrained Simplex Denoising for Discrete Data. A Non-Markovian Approach Applied to Graph Generation",
+      "publisher": "arXiv preprint (arXiv:2603.28572)",
+      "releaseDate": "2026-03-01",
+      "url": "https://arxiv.org/abs/2603.28572",
+      "summary": "Under review. With A. Kalousis."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Hierarchical Discrete Flow Matching for Graph Generation",
+      "publisher": "arXiv preprint (arXiv:2604.00236)",
+      "releaseDate": "2026-04-01",
+      "url": "https://arxiv.org/abs/2604.00236",
+      "summary": "With P. Strasser and A. Kalousis."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Simple and Critical Iterative Denoising: A Recasting of Discrete Diffusion in Graph Generation",
+      "publisher": "Forty-second International Conference on Machine Learning (ICML)",
+      "releaseDate": "2025-01-01",
+      "url": "",
+      "summary": "With A. Kalousis."
+    },
+    {
+      "name": "Discrete Graph Auto-Encoder",
+      "publisher": "Transactions on Machine Learning Research (TMLR)",
+      "releaseDate": "2024-01-01",
+      "url": "",
+      "summary": "With M. Gregorova and A. Kalousis."
+    },
+    {
+      "name": "Graph Annotation Generative Adversarial Networks",
+      "publisher": "Proceedings of The 14th Asian Conference on Machine Learning, Proceedings of Machine Learning Research (PMLR)",
+      "releaseDate": "2023-01-01",
+      "url": "",
+      "summary": "With M. Gregorova and A. Kalousis."
+    },
+    {
+      "name": "Glad: Improving Latent Graph Generative Modeling with Simple Quantization",
+      "publisher": "Proceedings of the 39th AAAI Conference on Artificial Intelligence",
+      "releaseDate": "2025-01-01",
+      "url": "",
+      "summary": "With V. K. Nguyen (1st author), F. Lavda and A. Kalousis."
+    },
+    {
+      "name": "Deep Learning for Satellite Imagery",
+      "publisher": "IXPUG Annual Conference 2019",
+      "releaseDate": "2019-01-01",
+      "url": "",
+      "summary": "Conference talk."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Languages & Frameworks",
+      "level": "",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "PyTorch", "PyTorch Geometric", "RDKit", "R", "Matlab"]
+    },
+    {
+      "name": "Methods",
+      "level": "",
+      "icon": "fa-solid fa-brain",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Deep generative models",
+        "Diffusion models",
+        "Flow matching",
+        "GANs",
+        "VAEs",
+        "Graph neural networks",
+        "Guidance"
       ]
+    },
+    {
+      "name": "Infrastructure",
+      "level": "",
+      "icon": "fa-solid fa-server",
+      "keywords": ["SLURM / HPC clusters", "Git", "Docker", "Weights & Biases"]
+    },
+    {
+      "name": "Other",
+      "level": "",
+      "icon": "fa-solid fa-file-lines",
+      "keywords": ["LaTeX"]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Advanced (C1)",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Upper intermediate (B2)",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Swing Dance & Jazz",
+      "icon": "fa-solid fa-music",
+      "keywords": ["Swing dance teacher", "Jazz history"]
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Running",
+      "icon": "fa-solid fa-person-running",
+      "keywords": ["Running", "Trail running"]
+    },
+    {
+      "name": "Energy & Environment",
+      "icon": "fa-solid fa-leaf",
+      "keywords": ["Energy issues", "Environmental issues"]
     }
   ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "name": "Adversarial Regression. Generative Adversarial Networks for Non-Linear Regression: Theory and Assessment",
+      "summary": "Master thesis, graded 5.5/6.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": ""
     }
   ]
 }
