@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>DMML group - HES-SO</a>. Battelle. Less is more.
+subtitle: <a href='https://dmml.ch/yoann-boget/'>DMML group - HES-SO</a>. Battelle. Less is more.
 
 profile:
   align: right
   image: yb.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
+    <p>F111 Battelle</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
